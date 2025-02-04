@@ -1,0 +1,23 @@
+table {
+    border: 5px solid;
+    background-color: rgb(0, 0, 0);
+    /* háttérszín */
+    font-family: 'Courier New', Courier, monospace;
+    /* betűstílus */
+    font-size: 40px;
+    /* betűméret */
+    font-weight: bold;
+    width: 90%;
+  }
+img{
+    height:500%;
+    /*kép méret*/
+}
+
+tbody{
+    background-color:rgb(96, 156, 206); 
+}
+thead{
+    background-color:rgb(96, 156, 206) ;
+    text-align: center;
+}
