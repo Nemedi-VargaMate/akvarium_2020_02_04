@@ -13,11 +13,26 @@ img{
     height:500%;
     /*kép méret*/
 }
-
-tbody{
-    background-color:rgb(96, 156, 206); 
-}
 thead{
     background-color:rgb(96, 156, 206) ;
     text-align: center;
+}
+tbody{
+    background-color:rgb(96, 156, 206); 
+}
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    background-color: rgb(96, 156, 206);
+    text-align: center;
+    font-size: 40px;
+    height: auto;
+    
+}
+h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    background-color: rgb(96, 156, 206);
+    font-size: 25px;
+    height: auto;
 }
